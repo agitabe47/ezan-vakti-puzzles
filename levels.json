@@ -1,14 +1,352 @@
-﻿[
-  { "id": 101, "title": "Kabe-i Muazzama", "gridSize": 2, "info": "Maşallah! Kabe, yeryüzünde Allah'a ibadet etmek için yapılan ilk binadır.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_kabe.png" },
-  { "id": 102, "title": "Altın Hilal ve Yıldız", "gridSize": 2, "info": "Tebrikler! Hilal ve Yıldız, tüm dünyada İslam'ın ve bağımsızlığın evrensel simgesidir.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_hilal.jpg" },
-  { "id": 103, "title": "Sultanahmet Camii", "gridSize": 3, "info": "Harika! Sultanahmet Camii, 6 minaresiyle İstanbul'un en muazzam mimari eserlerindendir.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_sultanahmet.png" },
-  { "id": 104, "title": "Kur'an-ı Kerim", "gridSize": 3, "info": "Maşallah! Kur'an-ı Kerim 114 sureden oluşur ve peygamberimize inen ilk emir 'Oku' dur.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_quran.png" },
-  { "id": 105, "title": "İslami Kandil", "gridSize": 3, "info": "Çok İyi! Kandiller, mübarek gecelerin ve Ramazan ayının ışıl ışıl manevi simgesidir.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_kandil.jpg" },
-  { "id": 106, "title": "Gül ve Peygamberimiz", "gridSize": 3, "info": "Harika! İslam sanatında kırmızı gül, Peygamber Efendimiz Hz. Muhammed'i (s.a.v) simgeler.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_gul.jpg" },
-  { "id": 107, "title": "Cami ve Ezan Vakti", "gridSize": 4, "info": "Tebrikler! Ezan, insanları kurtuluşa ve namaza çağıran ilahi bir davettir.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_siluet.jpg" },
-  { "id": 108, "title": "Kabe'nin Altın Kapısı", "gridSize": 4, "info": "Mükemmel! Kabe'nin kapısına Mültezem denir ve burada edilen duaların kabul olacağı müjdelenmiştir.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_kabe_kapi.jpg" },
-  { "id": 109, "title": "Nuh'un Gemisi", "gridSize": 4, "info": "Harika! Nuh Peygamber, tufandan kurtulmak için Allah'ın emriyle devasa bir gemi yapmıştır.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_nuh_gemisi.jpg" },
-  { "id": 110, "title": "Nurlu Rahle", "gridSize": 4, "info": "Maşallah! Rahle, Kutsal Kitabımızı saygıyla yüksekte tutup okumak için kullanılan ahşap masadır.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_rahle.jpg" },
-  { "id": 111, "title": "Cami Yolunda", "gridSize": 4, "info": "Tebrikler! Aile büyüklerimizle el ele namaza gitmek, nesilden nesile aktarılan en güzel mirastır.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_cami_dede.jpg" },
-  { "id": 112, "title": "İslami Hat Sanatı", "gridSize": 5, "info": "Muazzam Bir Başarı! Hat sanatı, Kur'an harflerini estetikle kağıda dökme sanatıdır. Oyunu bitirdin!", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_hat.png" }
+[
+  {
+    "id": 100,
+    "title": "Kabe-i Muazzama (Bölüm 1)",
+    "gridSize": 2,
+    "info": "Maşallah! Kabe, yeryüzünde Allah'a ibadet etmek için yapılan ilk binadır.",
+    "imageUrl": "https://raw.githubusercontent.com/agitabe47/ezan-vakti-puzzles/main/puzzle_kabe.png"
+  },
+  {
+    "id": 101,
+    "title": "Muazzam Cami İçi (Bölüm 2)",
+    "gridSize": 2,
+    "info": "Maşallah! Camiler, Allah'ın evleridir ve huzurun kaynağıdır.",
+    "imageUrl": "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 102,
+    "title": "Kur'an-ı Kerim (Bölüm 3)",
+    "gridSize": 2,
+    "info": "Maşallah! Kur'an-ı Kerim, insanlığa gönderilen son ilahi rehberdir.",
+    "imageUrl": "https://images.unsplash.com/photo-1564121211835-e88c852648ab?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 103,
+    "title": "Ezan Vakti Silüeti (Bölüm 4)",
+    "gridSize": 2,
+    "info": "Maşallah! Ezan, insanları namaza ve kurtuluşa çağıran ilahi bir davettir.",
+    "imageUrl": "https://images.unsplash.com/photo-1519817650390-64a93db51149?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 104,
+    "title": "Sultanahmet Camii (Bölüm 5)",
+    "gridSize": 2,
+    "info": "Maşallah! Sultanahmet Camii, muazzam çinileriyle meşhur efsanevi bir eserdir.",
+    "imageUrl": "https://images.unsplash.com/photo-1542816417-0983c9c9ad53?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 105,
+    "title": "İslami Motifler (Bölüm 6)",
+    "gridSize": 2,
+    "info": "Maşallah! İslam sanatında geometrik motifler sonsuzluğu ve düzeni simgeler.",
+    "imageUrl": "https://raw.githubusercontent.com/agitabe47/ezan-vakti-puzzles/main/puzzle_hilal.jpg"
+  },
+  {
+    "id": 106,
+    "title": "Ramazan Kandili (Bölüm 7)",
+    "gridSize": 2,
+    "info": "Maşallah! Kandiller, mübarek gecelerin ve Ramazan'ın ışıl ışıl simgesidir.",
+    "imageUrl": "https://images.unsplash.com/photo-1572945763073-1d8f53d2d4f2?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 107,
+    "title": "Mübarek Geceler (Bölüm 8)",
+    "gridSize": 2,
+    "info": "Maşallah! Mübarek gecelerde edilen dualar geri çevrilmez.",
+    "imageUrl": "https://images.unsplash.com/photo-1566807810034-cb13bb3941cc?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 108,
+    "title": "Hurma ve Bereket (Bölüm 9)",
+    "gridSize": 2,
+    "info": "Maşallah! Hurma, Peygamber Efendimizin (s.a.v) en sevdiği ve sünnet olan bereketli bir meyvedir.",
+    "imageUrl": "https://images.unsplash.com/photo-1603813959247-f4e1837fffa0?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 109,
+    "title": "İslami Mimari (Bölüm 10)",
+    "gridSize": 2,
+    "info": "Maşallah! İslam mimarisi, sadelik ile ihtişamı birleştiren muazzam bir sanattır.",
+    "imageUrl": "https://images.unsplash.com/photo-1585036156171-384164a8c675?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 110,
+    "title": "Kabe-i Muazzama (Bölüm 11)",
+    "gridSize": 2,
+    "info": "Maşallah! Kabe, yeryüzünde Allah'a ibadet etmek için yapılan ilk binadır.",
+    "imageUrl": "https://raw.githubusercontent.com/agitabe47/ezan-vakti-puzzles/main/puzzle_hat.png"
+  },
+  {
+    "id": 111,
+    "title": "Muazzam Cami İçi (Bölüm 12)",
+    "gridSize": 2,
+    "info": "Maşallah! Camiler, Allah'ın evleridir ve huzurun kaynağıdır.",
+    "imageUrl": "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 112,
+    "title": "Kur'an-ı Kerim (Bölüm 13)",
+    "gridSize": 3,
+    "info": "Maşallah! Kur'an-ı Kerim, insanlığa gönderilen son ilahi rehberdir.",
+    "imageUrl": "https://images.unsplash.com/photo-1564121211835-e88c852648ab?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 113,
+    "title": "Ezan Vakti Silüeti (Bölüm 14)",
+    "gridSize": 3,
+    "info": "Maşallah! Ezan, insanları namaza ve kurtuluşa çağıran ilahi bir davettir.",
+    "imageUrl": "https://images.unsplash.com/photo-1519817650390-64a93db51149?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 114,
+    "title": "Sultanahmet Camii (Bölüm 15)",
+    "gridSize": 3,
+    "info": "Maşallah! Sultanahmet Camii, muazzam çinileriyle meşhur efsanevi bir eserdir.",
+    "imageUrl": "https://images.unsplash.com/photo-1542816417-0983c9c9ad53?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 115,
+    "title": "İslami Motifler (Bölüm 16)",
+    "gridSize": 3,
+    "info": "Maşallah! İslam sanatında geometrik motifler sonsuzluğu ve düzeni simgeler.",
+    "imageUrl": "https://raw.githubusercontent.com/agitabe47/ezan-vakti-puzzles/main/puzzle_nuh_gemisi.jpg"
+  },
+  {
+    "id": 116,
+    "title": "Ramazan Kandili (Bölüm 17)",
+    "gridSize": 3,
+    "info": "Maşallah! Kandiller, mübarek gecelerin ve Ramazan'ın ışıl ışıl simgesidir.",
+    "imageUrl": "https://images.unsplash.com/photo-1572945763073-1d8f53d2d4f2?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 117,
+    "title": "Mübarek Geceler (Bölüm 18)",
+    "gridSize": 3,
+    "info": "Maşallah! Mübarek gecelerde edilen dualar geri çevrilmez.",
+    "imageUrl": "https://images.unsplash.com/photo-1566807810034-cb13bb3941cc?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 118,
+    "title": "Hurma ve Bereket (Bölüm 19)",
+    "gridSize": 3,
+    "info": "Maşallah! Hurma, Peygamber Efendimizin (s.a.v) en sevdiği ve sünnet olan bereketli bir meyvedir.",
+    "imageUrl": "https://images.unsplash.com/photo-1603813959247-f4e1837fffa0?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 119,
+    "title": "İslami Mimari (Bölüm 20)",
+    "gridSize": 3,
+    "info": "Maşallah! İslam mimarisi, sadelik ile ihtişamı birleştiren muazzam bir sanattır.",
+    "imageUrl": "https://images.unsplash.com/photo-1585036156171-384164a8c675?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 120,
+    "title": "Kabe-i Muazzama (Bölüm 21)",
+    "gridSize": 3,
+    "info": "Maşallah! Kabe, yeryüzünde Allah'a ibadet etmek için yapılan ilk binadır.",
+    "imageUrl": "https://raw.githubusercontent.com/agitabe47/ezan-vakti-puzzles/main/puzzle_kabe.png"
+  },
+  {
+    "id": 121,
+    "title": "Muazzam Cami İçi (Bölüm 22)",
+    "gridSize": 3,
+    "info": "Maşallah! Camiler, Allah'ın evleridir ve huzurun kaynağıdır.",
+    "imageUrl": "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 122,
+    "title": "Kur'an-ı Kerim (Bölüm 23)",
+    "gridSize": 3,
+    "info": "Maşallah! Kur'an-ı Kerim, insanlığa gönderilen son ilahi rehberdir.",
+    "imageUrl": "https://images.unsplash.com/photo-1564121211835-e88c852648ab?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 123,
+    "title": "Ezan Vakti Silüeti (Bölüm 24)",
+    "gridSize": 3,
+    "info": "Maşallah! Ezan, insanları namaza ve kurtuluşa çağıran ilahi bir davettir.",
+    "imageUrl": "https://images.unsplash.com/photo-1519817650390-64a93db51149?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 124,
+    "title": "Sultanahmet Camii (Bölüm 25)",
+    "gridSize": 4,
+    "info": "Maşallah! Sultanahmet Camii, muazzam çinileriyle meşhur efsanevi bir eserdir.",
+    "imageUrl": "https://images.unsplash.com/photo-1542816417-0983c9c9ad53?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 125,
+    "title": "İslami Motifler (Bölüm 26)",
+    "gridSize": 4,
+    "info": "Maşallah! İslam sanatında geometrik motifler sonsuzluğu ve düzeni simgeler.",
+    "imageUrl": "https://raw.githubusercontent.com/agitabe47/ezan-vakti-puzzles/main/puzzle_hilal.jpg"
+  },
+  {
+    "id": 126,
+    "title": "Ramazan Kandili (Bölüm 27)",
+    "gridSize": 4,
+    "info": "Maşallah! Kandiller, mübarek gecelerin ve Ramazan'ın ışıl ışıl simgesidir.",
+    "imageUrl": "https://images.unsplash.com/photo-1572945763073-1d8f53d2d4f2?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 127,
+    "title": "Mübarek Geceler (Bölüm 28)",
+    "gridSize": 4,
+    "info": "Maşallah! Mübarek gecelerde edilen dualar geri çevrilmez.",
+    "imageUrl": "https://images.unsplash.com/photo-1566807810034-cb13bb3941cc?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 128,
+    "title": "Hurma ve Bereket (Bölüm 29)",
+    "gridSize": 4,
+    "info": "Maşallah! Hurma, Peygamber Efendimizin (s.a.v) en sevdiği ve sünnet olan bereketli bir meyvedir.",
+    "imageUrl": "https://images.unsplash.com/photo-1603813959247-f4e1837fffa0?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 129,
+    "title": "İslami Mimari (Bölüm 30)",
+    "gridSize": 4,
+    "info": "Maşallah! İslam mimarisi, sadelik ile ihtişamı birleştiren muazzam bir sanattır.",
+    "imageUrl": "https://images.unsplash.com/photo-1585036156171-384164a8c675?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 130,
+    "title": "Kabe-i Muazzama (Bölüm 31)",
+    "gridSize": 4,
+    "info": "Maşallah! Kabe, yeryüzünde Allah'a ibadet etmek için yapılan ilk binadır.",
+    "imageUrl": "https://raw.githubusercontent.com/agitabe47/ezan-vakti-puzzles/main/puzzle_hat.png"
+  },
+  {
+    "id": 131,
+    "title": "Muazzam Cami İçi (Bölüm 32)",
+    "gridSize": 4,
+    "info": "Maşallah! Camiler, Allah'ın evleridir ve huzurun kaynağıdır.",
+    "imageUrl": "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 132,
+    "title": "Kur'an-ı Kerim (Bölüm 33)",
+    "gridSize": 4,
+    "info": "Maşallah! Kur'an-ı Kerim, insanlığa gönderilen son ilahi rehberdir.",
+    "imageUrl": "https://images.unsplash.com/photo-1564121211835-e88c852648ab?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 133,
+    "title": "Ezan Vakti Silüeti (Bölüm 34)",
+    "gridSize": 4,
+    "info": "Maşallah! Ezan, insanları namaza ve kurtuluşa çağıran ilahi bir davettir.",
+    "imageUrl": "https://images.unsplash.com/photo-1519817650390-64a93db51149?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 134,
+    "title": "Sultanahmet Camii (Bölüm 35)",
+    "gridSize": 4,
+    "info": "Maşallah! Sultanahmet Camii, muazzam çinileriyle meşhur efsanevi bir eserdir.",
+    "imageUrl": "https://images.unsplash.com/photo-1542816417-0983c9c9ad53?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 135,
+    "title": "İslami Motifler (Bölüm 36)",
+    "gridSize": 4,
+    "info": "Maşallah! İslam sanatında geometrik motifler sonsuzluğu ve düzeni simgeler.",
+    "imageUrl": "https://raw.githubusercontent.com/agitabe47/ezan-vakti-puzzles/main/puzzle_nuh_gemisi.jpg"
+  },
+  {
+    "id": 136,
+    "title": "Ramazan Kandili (Bölüm 37)",
+    "gridSize": 5,
+    "info": "Maşallah! Kandiller, mübarek gecelerin ve Ramazan'ın ışıl ışıl simgesidir.",
+    "imageUrl": "https://images.unsplash.com/photo-1572945763073-1d8f53d2d4f2?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 137,
+    "title": "Mübarek Geceler (Bölüm 38)",
+    "gridSize": 5,
+    "info": "Maşallah! Mübarek gecelerde edilen dualar geri çevrilmez.",
+    "imageUrl": "https://images.unsplash.com/photo-1566807810034-cb13bb3941cc?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 138,
+    "title": "Hurma ve Bereket (Bölüm 39)",
+    "gridSize": 5,
+    "info": "Maşallah! Hurma, Peygamber Efendimizin (s.a.v) en sevdiği ve sünnet olan bereketli bir meyvedir.",
+    "imageUrl": "https://images.unsplash.com/photo-1603813959247-f4e1837fffa0?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 139,
+    "title": "İslami Mimari (Bölüm 40)",
+    "gridSize": 5,
+    "info": "Maşallah! İslam mimarisi, sadelik ile ihtişamı birleştiren muazzam bir sanattır.",
+    "imageUrl": "https://images.unsplash.com/photo-1585036156171-384164a8c675?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 140,
+    "title": "Kabe-i Muazzama (Bölüm 41)",
+    "gridSize": 5,
+    "info": "Maşallah! Kabe, yeryüzünde Allah'a ibadet etmek için yapılan ilk binadır.",
+    "imageUrl": "https://raw.githubusercontent.com/agitabe47/ezan-vakti-puzzles/main/puzzle_kabe.png"
+  },
+  {
+    "id": 141,
+    "title": "Muazzam Cami İçi (Bölüm 42)",
+    "gridSize": 5,
+    "info": "Maşallah! Camiler, Allah'ın evleridir ve huzurun kaynağıdır.",
+    "imageUrl": "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 142,
+    "title": "Kur'an-ı Kerim (Bölüm 43)",
+    "gridSize": 5,
+    "info": "Maşallah! Kur'an-ı Kerim, insanlığa gönderilen son ilahi rehberdir.",
+    "imageUrl": "https://images.unsplash.com/photo-1564121211835-e88c852648ab?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 143,
+    "title": "Ezan Vakti Silüeti (Bölüm 44)",
+    "gridSize": 5,
+    "info": "Maşallah! Ezan, insanları namaza ve kurtuluşa çağıran ilahi bir davettir.",
+    "imageUrl": "https://images.unsplash.com/photo-1519817650390-64a93db51149?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 144,
+    "title": "Sultanahmet Camii (Bölüm 45)",
+    "gridSize": 5,
+    "info": "Maşallah! Sultanahmet Camii, muazzam çinileriyle meşhur efsanevi bir eserdir.",
+    "imageUrl": "https://images.unsplash.com/photo-1542816417-0983c9c9ad53?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 145,
+    "title": "İslami Motifler (Bölüm 46)",
+    "gridSize": 5,
+    "info": "Maşallah! İslam sanatında geometrik motifler sonsuzluğu ve düzeni simgeler.",
+    "imageUrl": "https://raw.githubusercontent.com/agitabe47/ezan-vakti-puzzles/main/puzzle_hilal.jpg"
+  },
+  {
+    "id": 146,
+    "title": "Ramazan Kandili (Bölüm 47)",
+    "gridSize": 5,
+    "info": "Maşallah! Kandiller, mübarek gecelerin ve Ramazan'ın ışıl ışıl simgesidir.",
+    "imageUrl": "https://images.unsplash.com/photo-1572945763073-1d8f53d2d4f2?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 147,
+    "title": "Mübarek Geceler (Bölüm 48)",
+    "gridSize": 5,
+    "info": "Maşallah! Mübarek gecelerde edilen dualar geri çevrilmez.",
+    "imageUrl": "https://images.unsplash.com/photo-1566807810034-cb13bb3941cc?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 148,
+    "title": "Hurma ve Bereket (Bölüm 49)",
+    "gridSize": 6,
+    "info": "Maşallah! Hurma, Peygamber Efendimizin (s.a.v) en sevdiği ve sünnet olan bereketli bir meyvedir.",
+    "imageUrl": "https://images.unsplash.com/photo-1603813959247-f4e1837fffa0?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 149,
+    "title": "İslami Mimari (Bölüm 50)",
+    "gridSize": 6,
+    "info": "Maşallah! İslam mimarisi, sadelik ile ihtişamı birleştiren muazzam bir sanattır.",
+    "imageUrl": "https://images.unsplash.com/photo-1585036156171-384164a8c675?auto=format&fit=crop&w=800&q=80"
+  }
 ]
