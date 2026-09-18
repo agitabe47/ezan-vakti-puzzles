@@ -1,0 +1,14 @@
+﻿[
+  { "id": 101, "title": "Kabe-i Muazzama", "gridSize": 2, "info": "Maşallah! Kabe, yeryüzünde Allah'a ibadet etmek için yapılan ilk binadır.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_kabe.png" },
+  { "id": 102, "title": "Altın Hilal ve Yıldız", "gridSize": 2, "info": "Tebrikler! Hilal ve Yıldız, tüm dünyada İslam'ın ve bağımsızlığın evrensel simgesidir.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_hilal.jpg" },
+  { "id": 103, "title": "Sultanahmet Camii", "gridSize": 3, "info": "Harika! Sultanahmet Camii, 6 minaresiyle İstanbul'un en muazzam mimari eserlerindendir.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_sultanahmet.png" },
+  { "id": 104, "title": "Kur'an-ı Kerim", "gridSize": 3, "info": "Maşallah! Kur'an-ı Kerim 114 sureden oluşur ve peygamberimize inen ilk emir 'Oku' dur.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_quran.png" },
+  { "id": 105, "title": "İslami Kandil", "gridSize": 3, "info": "Çok İyi! Kandiller, mübarek gecelerin ve Ramazan ayının ışıl ışıl manevi simgesidir.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_kandil.jpg" },
+  { "id": 106, "title": "Gül ve Peygamberimiz", "gridSize": 3, "info": "Harika! İslam sanatında kırmızı gül, Peygamber Efendimiz Hz. Muhammed'i (s.a.v) simgeler.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_gul.jpg" },
+  { "id": 107, "title": "Cami ve Ezan Vakti", "gridSize": 4, "info": "Tebrikler! Ezan, insanları kurtuluşa ve namaza çağıran ilahi bir davettir.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_siluet.jpg" },
+  { "id": 108, "title": "Kabe'nin Altın Kapısı", "gridSize": 4, "info": "Mükemmel! Kabe'nin kapısına Mültezem denir ve burada edilen duaların kabul olacağı müjdelenmiştir.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_kabe_kapi.jpg" },
+  { "id": 109, "title": "Nuh'un Gemisi", "gridSize": 4, "info": "Harika! Nuh Peygamber, tufandan kurtulmak için Allah'ın emriyle devasa bir gemi yapmıştır.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_nuh_gemisi.jpg" },
+  { "id": 110, "title": "Nurlu Rahle", "gridSize": 4, "info": "Maşallah! Rahle, Kutsal Kitabımızı saygıyla yüksekte tutup okumak için kullanılan ahşap masadır.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_rahle.jpg" },
+  { "id": 111, "title": "Cami Yolunda", "gridSize": 4, "info": "Tebrikler! Aile büyüklerimizle el ele namaza gitmek, nesilden nesile aktarılan en güzel mirastır.", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_cami_dede.jpg" },
+  { "id": 112, "title": "İslami Hat Sanatı", "gridSize": 5, "info": "Muazzam Bir Başarı! Hat sanatı, Kur'an harflerini estetikle kağıda dökme sanatıdır. Oyunu bitirdin!", "imageUrl": "https://raw.githubusercontent.com/USER/REPO/main/puzzle_hat.png" }
+]
